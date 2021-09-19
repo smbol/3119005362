@@ -1,0 +1,12 @@
+@startuml
+class com.cjf.check.WordUtil {
++ {static} boolean isChineseCharacter(char)
++ {static} Short getGB2312Code(char)
+}
+class com.cjf.check.FileUtil {
++ {static} double getSimilarity(String,String)
+}
+class com.cjf.check.Main {
++ {static} void main(String[])
+}
+@enduml

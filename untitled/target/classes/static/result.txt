@@ -1,0 +1,11 @@
+
+原文本orig.txt与抄袭文本orig_0.8_add.txt相似率为：95.22%
+原文本orig.txt与抄袭文本orig_0.8_del.txt相似率为：96.01%
+原文本orig.txt与抄袭文本orig_0.8_dis_1.txt相似率为：100.00%
+原文本orig.txt与抄袭文本orig_0.8_dis_10.txt相似率为：99.91%
+原文本orig.txt与抄袭文本orig_0.8_dis_15.txt相似率为：99.74%
+原文本orig.txt与抄袭文本orig_0.8_add.txt相似率为：95.22%
+原文本orig.txt与抄袭文本orig_0.8_del.txt相似率为：96.01%
+原文本orig.txt与抄袭文本orig_0.8_dis_1.txt相似率为：100.00%
+原文本orig.txt与抄袭文本orig_0.8_dis_10.txt相似率为：99.91%
+原文本orig.txt与抄袭文本orig_0.8_dis_15.txt相似率为：99.74%
